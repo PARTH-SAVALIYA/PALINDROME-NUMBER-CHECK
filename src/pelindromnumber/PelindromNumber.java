@@ -6,10 +6,7 @@
 
 package pelindromnumber;
 import java.util.Scanner;
-/**
- *
- * @author ankita
- */
+
 
 class demo
 {
